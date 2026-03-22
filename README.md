@@ -8,4 +8,4 @@
 
 4_HIV_application.R: codes to run HIV-kidney disease application
 
-Note the simulation is designed to run in a multi-core cluster and it takes a relatively long time. Most of those codes are wrote during late 2024 with relatively less support of AIs.
+Note the simulation is designed to run in a multi-core cluster and it takes a relatively long time. Most of those codes were wrote during late 2024-early 2025 with relatively less support of AIs.
